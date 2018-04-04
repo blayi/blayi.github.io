@@ -1,0 +1,29 @@
+body{
+  background-color:darkseagreen;
+  max-width: 100%;
+  margin: auto;
+}
+.butt{
+  height: 60px;
+  width:95px;
+  color: white;
+  background-color: black;
+  font-size: 18px;
+
+}
+
+
+.butt:hover{
+  background-color: lightblue;
+   color:black;
+
+}
+.bottom{
+  background-color: lightblue;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+
+}
